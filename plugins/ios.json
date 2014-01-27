@@ -1,1 +1,1 @@
-{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{},"installed_plugins":{},"dependent_plugins":{}}
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"*-Info.plist":{"CFBundleURLTypes":{"<array><dict><key>CFBundleURLSchemes</key><array><string>test</string></array></dict></array>":1}}},"installed_plugins":{"nl.x-services.plugins.launchmyapp":{"URL_SCHEME":"test","PACKAGE_NAME":"com.phonegap.helloworld"}},"dependent_plugins":{}}

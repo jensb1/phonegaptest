@@ -44,3 +44,92 @@ objc[90991]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.a
 2014-01-27 20:35:23.103 HelloWorld[90991:80b] Failed to load webpage with error: A server with the specified hostname could not be found.
 2014-01-27 20:35:26.161 HelloWorld[90991:80b] Resetting plugins due to page load.
 2014-01-27 20:35:26.166 HelloWorld[90991:80b] Failed to load webpage with error: A server with the specified hostname could not be found.
+2014-01-27 20:46:18.651 HelloWorld[90991:80b] Resetting plugins due to page load.
+2014-01-27 20:46:18.661 HelloWorld[90991:80b] Failed to load webpage with error: A server with the specified hostname could not be found.
+objc[91703]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-01-27 20:55:10.861 HelloWorld[91703:80b] Cannot find executable for CFBundle 0xa767700 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-01-27 20:55:10.883 HelloWorld[91703:80b] Cannot find executable for CFBundle 0xa543550 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-01-27 20:55:11.003 HelloWorld[91703:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-27 20:55:11.072 HelloWorld[91703:80b] Unlimited access to network resources
+2014-01-27 20:55:11.405 HelloWorld[91703:80b] Resetting plugins due to page load.
+2014-01-27 20:55:11.867 HelloWorld[91703:80b] Finished load of: file:///Users/jensberlips/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/110A5BE4-DD63-49B6-9D1B-14768EC3EAFA/HelloWorld.app/www/index.html
+2014-01-27 20:55:46.887 HelloWorld[91703:80b] Resetting plugins due to page load.
+2014-01-27 20:55:47.087 HelloWorld[91703:80b] Failed to load webpage with error: A server with the specified hostname could not be found.
+2014-01-27 20:55:47.505 HelloWorld[91703:80b] Failed to load webpage with error: The URL can’t be shown
+2014-01-27 20:55:49.939 HelloWorld[91703:80b] Failed to load webpage with error: The URL can’t be shown
+2014-01-27 20:55:50.788 HelloWorld[91703:80b] Resetting plugins due to page load.
+2014-01-27 20:55:50.823 HelloWorld[91703:80b] Failed to load webpage with error: A server with the specified hostname could not be found.
+2014-01-27 20:55:51.867 HelloWorld[91703:80b] Resetting plugins due to page load.
+2014-01-27 20:55:51.873 HelloWorld[91703:80b] Failed to load webpage with error: A server with the specified hostname could not be found.
+2014-01-27 20:55:52.354 HelloWorld[91703:80b] Resetting plugins due to page load.
+2014-01-27 20:55:52.362 HelloWorld[91703:80b] Failed to load webpage with error: A server with the specified hostname could not be found.
+2014-01-27 20:55:59.933 HelloWorld[91703:80b] Resetting plugins due to page load.
+2014-01-27 20:55:59.981 HelloWorld[91703:80b] Failed to load webpage with error: A server with the specified hostname could not be found.
+2014-01-27 20:56:01.437 HelloWorld[91703:80b] Resetting plugins due to page load.
+2014-01-27 20:56:01.441 HelloWorld[91703:80b] Failed to load webpage with error: A server with the specified hostname could not be found.
+2014-01-27 20:56:07.612 HelloWorld[91703:80b] Resetting plugins due to page load.
+2014-01-27 20:56:07.619 HelloWorld[91703:80b] Failed to load webpage with error: A server with the specified hostname could not be found.
+2014-01-27 20:56:08.091 HelloWorld[91703:80b] Resetting plugins due to page load.
+2014-01-27 20:56:08.095 HelloWorld[91703:80b] Failed to load webpage with error: A server with the specified hostname could not be found.
+objc[92309]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-01-27 20:56:50.508 HelloWorld[92309:80b] Cannot find executable for CFBundle 0xa556a30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-01-27 20:56:50.539 HelloWorld[92309:80b] Cannot find executable for CFBundle 0xa67c500 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-01-27 20:56:50.589 HelloWorld[92309:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-27 20:56:50.599 HelloWorld[92309:80b] Unlimited access to network resources
+2014-01-27 20:56:50.791 HelloWorld[92309:80b] Resetting plugins due to page load.
+2014-01-27 20:56:50.959 HelloWorld[92309:80b] Finished load of: file:///Users/jensberlips/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/110A5BE4-DD63-49B6-9D1B-14768EC3EAFA/HelloWorld.app/www/index.html
+2014-01-27 20:56:56.454 HelloWorld[92309:80b] Resetting plugins due to page load.
+2014-01-27 20:56:58.335 HelloWorld[92309:80b] Finished load of: https://www.apoex.se/
+objc[92950]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-01-27 21:02:21.613 HelloWorld[92950:80b] Cannot find executable for CFBundle 0xa4abd20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-01-27 21:02:21.761 HelloWorld[92950:80b] Cannot find executable for CFBundle 0xa75ae70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-01-27 21:02:22.128 HelloWorld[92950:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-27 21:02:22.219 HelloWorld[92950:80b] Unlimited access to network resources
+2014-01-27 21:02:22.830 HelloWorld[92950:80b] Resetting plugins due to page load.
+2014-01-27 21:02:23.072 HelloWorld[92950:80b] Finished load of: file:///Users/jensberlips/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/110A5BE4-DD63-49B6-9D1B-14768EC3EAFA/HelloWorld.app/www/index.html
+2014-01-27 21:02:26.870 HelloWorld[92950:80b] Failed to load webpage with error: The URL can’t be shown
+2014-01-27 21:02:33.633 HelloWorld[92950:80b] Failed to load webpage with error: The URL can’t be shown
+2014-01-27 21:02:38.962 HelloWorld[92950:80b] Failed to load webpage with error: The URL can’t be shown
+2014-01-27 21:02:39.587 HelloWorld[92950:80b] Resetting plugins due to page load.
+2014-01-27 21:02:40.942 HelloWorld[92950:80b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-01-27 21:02:40.961 HelloWorld[92950:80b] Resetting plugins due to page load.
+2014-01-27 21:02:41.816 HelloWorld[92950:80b] Finished load of: https://www.apoex.se/djursjukvard
+objc[95884]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-01-27 21:06:47.148 HelloWorld[95884:80b] Cannot find executable for CFBundle 0xa7a4290 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-01-27 21:06:47.230 HelloWorld[95884:80b] Cannot find executable for CFBundle 0xa68e480 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-01-27 21:06:47.316 HelloWorld[95884:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-27 21:06:47.363 HelloWorld[95884:80b] Unlimited access to network resources
+2014-01-27 21:06:47.705 HelloWorld[95884:80b] Resetting plugins due to page load.
+2014-01-27 21:06:48.227 HelloWorld[95884:80b] Finished load of: file:///Users/jensberlips/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/110A5BE4-DD63-49B6-9D1B-14768EC3EAFA/HelloWorld.app/www/index.html
+2014-01-27 21:06:49.985 HelloWorld[95884:80b] Failed to load webpage with error: The URL can’t be shown
+2014-01-27 21:08:39.391 HelloWorld[95884:80b] Failed to load webpage with error: The URL can’t be shown
+2014-01-27 21:08:39.885 HelloWorld[95884:80b] Failed to load webpage with error: The URL can’t be shown
+objc[96517]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-01-27 21:12:10.259 HelloWorld[96517:80b] Cannot find executable for CFBundle 0xa42f780 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-01-27 21:12:10.329 HelloWorld[96517:80b] Cannot find executable for CFBundle 0xa75fbc0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-01-27 21:12:10.457 HelloWorld[96517:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-27 21:12:10.544 HelloWorld[96517:80b] Unlimited access to network resources
+2014-01-27 21:12:11.000 HelloWorld[96517:80b] Resetting plugins due to page load.
+2014-01-27 21:12:11.353 HelloWorld[96517:80b] Finished load of: file:///Users/jensberlips/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/110A5BE4-DD63-49B6-9D1B-14768EC3EAFA/HelloWorld.app/www/index.html
+2014-01-27 21:12:36.696 HelloWorld[96517:80b] Failed to load webpage with error: The URL can’t be shown
+objc[97157]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-01-27 21:19:22.773 HelloWorld[97157:80b] Cannot find executable for CFBundle 0xa756120 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-01-27 21:19:22.782 HelloWorld[97157:80b] Cannot find executable for CFBundle 0xa66df90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-01-27 21:19:22.910 HelloWorld[97157:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-27 21:19:22.977 HelloWorld[97157:80b] Unlimited access to network resources
+2014-01-27 21:19:23.198 HelloWorld[97157:80b] Resetting plugins due to page load.
+2014-01-27 21:19:23.662 HelloWorld[97157:80b] Finished load of: file:///Users/jensberlips/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/110A5BE4-DD63-49B6-9D1B-14768EC3EAFA/HelloWorld.app/www/index.html
+2014-01-27 21:19:42.510 HelloWorld[97157:80b] Failed to load webpage with error: The URL can’t be shown
+2014-01-27 21:19:43.180 HelloWorld[97157:80b] Failed to load webpage with error: The URL can’t be shown
+2014-01-27 21:19:43.691 HelloWorld[97157:80b] Failed to load webpage with error: The URL can’t be shown
+objc[97838]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-01-27 21:30:14.876 HelloWorld[97838:80b] Cannot find executable for CFBundle 0xa545050 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-01-27 21:30:14.893 HelloWorld[97838:80b] Cannot find executable for CFBundle 0xa55faf0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-01-27 21:30:14.929 HelloWorld[97838:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-27 21:30:14.939 HelloWorld[97838:80b] Unlimited access to network resources
+2014-01-27 21:30:15.179 HelloWorld[97838:80b] Resetting plugins due to page load.
+2014-01-27 21:30:15.277 HelloWorld[97838:80b] Finished load of: file:///Users/jensberlips/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/110A5BE4-DD63-49B6-9D1B-14768EC3EAFA/HelloWorld.app/www/index.html
+2014-01-27 21:30:17.613 HelloWorld[97838:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-01-27 21:30:17.614 HelloWorld[97838:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-01-27 21:30:18.564 HelloWorld[97838:80b] CDVWebViewDelegate: Navigation started when state=1
+2014-01-27 21:30:18.565 HelloWorld[97838:80b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1

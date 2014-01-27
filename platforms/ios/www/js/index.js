@@ -34,6 +34,8 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+
+        window.plugins.childBrowser.showWebPage("test://asdfasfd", { showNavigationBar: true, showLocationBar: true, showAddressBar: true });
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
